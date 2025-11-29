@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DMX Mobile</string>
+    <string name="connect">Conectar</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="scan_devices">Escanear Dispositivos</string>
+    <string name="no_devices">No se encontraron dispositivos USB</string>
+    <string name="select_device">Seleccionar dispositivo USB-DMX</string>
+    <string name="connected">Conectado</string>
+    <string name="disconnected">Desconectado</string>
+    <string name="channel">Canal</string>
+    <string name="value">Valor</string>
+    <string name="blackout">Blackout</string>
+    <string name="scenes">Escenas</string>
+    <string name="save_scene">Guardar Escena</string>
+    <string name="load_scene">Cargar</string>
+    <string name="delete_scene">Eliminar</string>
+    <string name="scene_name">Nombre de la escena</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="fixtures">Fixtures</string>
+    <string name="add_fixture">Agregar Fixture</string>
+    <string name="color_presets">Presets de Color</string>
+    <string name="manual_control">Control Manual</string>
+    <string name="start_channel">Canal Inicial</string>
+    <string name="fixture_name">Nombre</string>
+    <string name="fixture_type">Tipo</string>
+    <string name="red">Rojo</string>
+    <string name="green">Verde</string>
+    <string name="blue">Azul</string>
+    <string name="white">Blanco</string>
+    <string name="intensity">Intensidad</string>
+</resources>

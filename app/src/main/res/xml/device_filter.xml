@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- FTDI FT232R -->
+    <usb-device vendor-id="1027" product-id="24577" />
+    
+    <!-- Otros chips FTDI comunes -->
+    <usb-device vendor-id="1027" product-id="24592" />
+    
+    <!-- CH340 (alternativa común) -->
+    <usb-device vendor-id="6790" product-id="29987" />
+</resources>
